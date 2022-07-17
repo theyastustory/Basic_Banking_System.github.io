@@ -1,2 +1,6 @@
-# BANKING                                         <a href="https://youtu.be/LA05-5HGTGU"><img src="https://cdn2.iconfinder.com/data/icons/social-18/512/YouTube-2-256.png" width="50" height="50" align="right"></a>
-GRIP@ Sparks Foundation web development and designing internship Task-1 Basic Banking website The Sparks Foundation Tasks This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.  Internship Category - Web Development and Design Internship Duration - 2 Month ( FEB-2021 ) Internship Type - Work from Home  Task-1 : Basic Banking System
+# BANKING                                        
+GRIP Sparks Foundation Web Development and Design Internship Task-1 
+ This is basic banking system website that contains features listed below: -
+1. Customers table will have basic fields such as name, email, current balance etc. Transfers table will record all transfers.
+2. Flow: Home Page > View all Customers> Select and view one Customer> Transfer Money> Select Customers to transfer to> View all Customers
+3. No Login Page. No user creation. Only transfer of money between multiple users.
